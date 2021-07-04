@@ -13,6 +13,9 @@
     "a_water_drops0": {
       "textures": "textures/special/water_drops0"
     },
+    "a_blue_noise0": {
+      "textures": "textures/special/blue_noise1"
+    },
     "a_blue_noise1": {
       "textures": "textures/special/blue_noise1"
     },
