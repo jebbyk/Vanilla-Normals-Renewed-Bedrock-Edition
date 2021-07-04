@@ -33,7 +33,6 @@ SEUS renewed heavily relies on Screen Space Reflections for this and don't take 
 
 1. On this page, click on «Release», on the top of the screen.
 2. Pick the version you want and download the zip in the «assets» zone.
-2. Go to the minecraft resource packs folder (/sdcard/games/com.mojang/resource_packs)
-4. Put the zip you downloaded here.
 5. Change it's file type from .zip to .mcpack
-5. Select the right shader and resourcepack in minecraft options.
+6. Open this .mcpack file using minecraft
+7. Select the right shader and resourcepack in minecraft options.
