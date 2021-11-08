@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-{
-    "format_version": 1,
-    "header": {
-        "description": "Vanilla normals renewed PBR texture pack converted for bedrock shaders with PBR support",
-        "name": "Vanilla Normals Renewed",
-        "uuid": "7095269e-dcac-11eb-ba80-0242ac130004",
-        "version": [1, 17, 0]
-    },
-    "modules": [
-        {
-            "description": "Vanilla normals renewed PBR texture pack converted for bedrock shaders with PBR support",
-            "type": "resources",
-            "uuid": "7b24eb8a-dcac-11eb-ba80-0242ac130004",
-            "version": [1, 17, 0]
-        }
-    ],
-    "metadata": {
-      "authors": ["Poudingue (creator)", "Jebbyk (converted)"]
-    }
-}
-=======
 {
          "format_version": 1,
          "header": {
@@ -74,4 +52,3 @@ Change this option if textures are bugged. If it doesn't helps ask an author of 
                   }
          ]
 }
->>>>>>> master
