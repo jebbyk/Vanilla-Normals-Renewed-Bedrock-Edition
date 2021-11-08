@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "format_version": 1,
     "header": {
@@ -18,3 +19,59 @@
       "authors": ["Poudingue (creator)", "Jebbyk (converted)"]
     }
 }
+=======
+{
+         "format_version": 1,
+         "header": {
+                  "description": "Vanilla normals renewed PBR texture pack converted for bedrock shaders with PBR support",
+                  "name": "Vanilla Normals Renuwed",
+                  "uuid": "7095269e-dcac-11eb-ba80-0242ac130004",
+                  "version": [
+                           1,
+                           17,
+                           0
+                  ]
+         },
+         "modules": [
+                  {
+                           "description": "Vanilla normals renewed PBR texture pack converted for bedrock shaders with PBR support",
+                           "type": "resources",
+                           "uuid": "7b24eb8a-dcac-11eb-ba80-0242ac130004",
+                           "version": [
+                                    1,
+                                    17,
+                                    0
+                           ]
+                  }
+         ],
+         "metadata": {
+                  "authors": [
+                           "Poudingue (creator)",
+                           "Jebbyk (converted)"
+                  ]
+         },
+         "subpacks": [
+                  {
+                           "folder_name": "atlas_32x32",
+                           "memory_tier": 0,
+                           "name": "
+
+Change this option if textures are bugged. If it doesn't helps ask an author of a shader you are using for help.
+
+[Compatibility options]§4 Atlas 32x32
+§r§e§lClose settings, wait for reimport and restart the minecraft to apply changes!"
+                  },
+                  {
+                           "folder_name": "atlas_64x32",
+                           "memory_tier": 1,
+                           "name": "
+
+
+Change this option if textures are bugged. If it doesn't helps ask an author of a shader you are using for help.
+
+[Compatibility options]§4 Atlas 64x32
+§r§e§lClose settings, wait for reimport and restart the minecraft to apply changes!"
+                  }
+         ]
+}
+>>>>>>> master
