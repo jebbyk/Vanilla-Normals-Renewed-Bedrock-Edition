@@ -34,20 +34,21 @@
                            "memory_tier": 0,
                            "name": "
 
-Change this unless you have trouble with textures. If none of these options work, read §9#faq§r and if you couldn`t find your issue, then ask in §9#support§r channel.
+Change this option if textures are bugged. If it doesn't helps ask an author of a shader you are using for help.
 
-§l[Compatibility options]§r§e Atlas 32x32
-§4Close settings and restart the minecraft to apply changes!"
+[Compatibility options]§4 Atlas 32x32
+§r§e§lClose settings, wait for reimport and restart the minecraft to apply changes!"
                   },
                   {
                            "folder_name": "atlas_64x32",
                            "memory_tier": 1,
                            "name": "
 
-Change this unless you have trouble with textures. If none of these options work, read §9#faq§r and if you couldn`t find your issue, then ask in §9#support§r channel.
 
-§l[Compatibility options]§r§e Atlas 64x32
-§4Close settings and restart the minecraft to apply changes!"
+Change this option if textures are bugged. If it doesn't helps ask an author of a shader you are using for help.
+
+[Compatibility options]§4 Atlas 64x32
+§r§e§lClose settings, wait for reimport and restart the minecraft to apply changes!"
                   }
          ]
 }
