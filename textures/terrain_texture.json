@@ -39,9 +39,6 @@
       ]
     },
 
-
-
-
     "00000004": {
       "textures": [
         "textures/blocks/brick",
@@ -365,7 +362,64 @@
         "textures/blocks/tnt_side_n",
         "textures/blocks/tnt_side_s"
       ]
+    },
+
+    "00000044": {
+      "textures": [
+        "textures/blocks/bookshelf",
+        "textures/blocks/bookshelf_n",
+        "textures/blocks/bookshelf_s"
+      ]
+    },
+
+    "00000045": {
+      "textures": [
+        "textures/blocks/log_birch_top",
+        "textures/blocks/log_birch_top_n",
+        "textures/blocks/log_birch_top_s"
+      ]
+    },
+
+    "00000046": {
+      "textures": [
+        "textures/blocks/log_spruce_top",
+        "textures/blocks/log_spruce_top_n",
+        "textures/blocks/log_spruce_top_s"
+      ]
+    },
+    
+    "00000047": {
+      "textures": [
+        "textures/blocks/log_oak_top",
+        "textures/blocks/log_oak_top_n",
+        "textures/blocks/log_oak_top_s"
+      ]
+    },
+
+    "00000048": {
+      "textures": [
+        "textures/blocks/log_birch",
+        "textures/blocks/log_birch_n",
+        "textures/blocks/log_birch_s"
+      ]
+    },
+
+    "00000049": {
+      "textures": [
+        "textures/blocks/log_oak",
+        "textures/blocks/log_oak_n",
+        "textures/blocks/log_oak_s"
+      ]
+    },
+    
+    "00000050": {
+      "textures": [
+        "textures/blocks/log_spruce",
+        "textures/blocks/log_spruce_n",
+        "textures/blocks/log_spruce_s"
+      ]
     }
+
 
 
   }
