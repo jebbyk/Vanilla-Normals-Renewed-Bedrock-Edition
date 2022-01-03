@@ -1228,13 +1228,91 @@
         "textures/blocks/smoker_front_on_n",
         "textures/blocks/smoker_front_on_s"
       ]
+    },
+
+    "00000152": {
+      "textures": [
+        "textures/blocks/blast_furnace_front_off",
+        "textures/blocks/blast_furnace_front_off_n",
+        "textures/blocks/blast_furnace_front_off_s"
+      ]
+    },
+
+
+    "00000153": {
+      "textures": [
+        "textures/blocks/blast_furnace_front_on",
+        "textures/blocks/blast_furnace_front_on_n",
+        "textures/blocks/blast_furnace_front_on_s"
+      ]
+    },
+
+    "00000154": {
+      "textures": [
+        "textures/blocks/blast_furnace_side",
+        "textures/blocks/blast_furnace_side_n",
+        "textures/blocks/blast_furnace_side_s"
+      ]
+    },
+
+    
+    "00000155": {
+      "textures": [
+        "textures/blocks/blast_furnace_top",
+        "textures/blocks/blast_furnace_top_n",
+        "textures/blocks/blast_furnace_top_s"
+      ]
+    },
+
+    "00000156": {
+      "textures": [
+        "textures/blocks/lantern",
+        "textures/blocks/lantern_n",
+        "textures/blocks/lantern_s"
+      ]
+    },
+
+    "00000157": {
+      "textures": [
+        "textures/blocks/composter_top",
+        "textures/blocks/composter_top_n",
+        "textures/blocks/composter_top_s"
+      ]
+    },
+
+    "00000158": {
+      "textures": [
+        "textures/blocks/composter_side",
+        "textures/blocks/composter_side_n",
+        "textures/blocks/composter_side_s"
+      ]
+    },
+
+    "00000159": {
+      "textures": [
+        "textures/blocks/composter_bottom",
+        "textures/blocks/composter_bottom_n",
+        "textures/blocks/composter_bottom_s"
+      ]
+    },
+
+    "00000160": {
+      "textures": [
+        "textures/blocks/compost",
+        "textures/blocks/compost_n",
+        "textures/blocks/compost_s"
+      ]
+    },
+
+    "00000161": {
+      "textures": [
+        "textures/blocks/compost_ready",
+        "textures/blocks/compost_ready_n",
+        "textures/blocks/compost_ready_s"
+      ]
     }
     
     
-    
-    
-    
-
 
   }
 }
