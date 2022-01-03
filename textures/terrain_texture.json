@@ -976,6 +976,137 @@
         "textures/blocks/prismarine_bricks_n",
         "textures/blocks/prismarine_bricks_s"
       ]
+    },
+
+    "00000121": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_black",
+        "textures/blocks/glazed_terracotta_black_n",
+        "textures/blocks/glazed_terracotta_black_s"
+      ]
+    },
+
+    "00000122": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_blue",
+        "textures/blocks/glazed_terracotta_blue_n",
+        "textures/blocks/glazed_terracotta_blue_s"
+      ]
+    },
+
+    "00000123": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_brown",
+        "textures/blocks/glazed_terracotta_brown_n",
+        "textures/blocks/glazed_terracotta_brown_s"
+      ]
+    },
+
+    "00000124": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_cyan",
+        "textures/blocks/glazed_terracotta_cyan_n",
+        "textures/blocks/glazed_terracotta_cyan_s"
+      ]
+    },
+
+    "00000125": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_gray",
+        "textures/blocks/glazed_terracotta_gray_n",
+        "textures/blocks/glazed_terracotta_gray_s"
+      ]
+    },
+
+    "00000126": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_green",
+        "textures/blocks/glazed_terracotta_green_n",
+        "textures/blocks/glazed_terracotta_green_s"
+      ]
+    },
+
+    "00000127": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_light_blue",
+        "textures/blocks/glazed_terracotta_light_blue_n",
+        "textures/blocks/glazed_terracotta_light_blue_s"
+      ]
+    },
+
+    
+    "00000128": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_lime",
+        "textures/blocks/glazed_terracotta_lime_n",
+        "textures/blocks/glazed_terracotta_lime_s"
+      ]
+    },
+
+    "00000129": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_magenta",
+        "textures/blocks/glazed_terracotta_magenta_n",
+        "textures/blocks/glazed_terracotta_magenta_s"
+      ]
+    },
+
+    "00000130": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_orange",
+        "textures/blocks/glazed_terracotta_orange_n",
+        "textures/blocks/glazed_terracotta_orange_s"
+      ]
+    },
+
+    "00000131": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_pink",
+        "textures/blocks/glazed_terracotta_pink_n",
+        "textures/blocks/glazed_terracotta_pink_s"
+      ]
+    },
+
+    "00000132": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_purple",
+        "textures/blocks/glazed_terracotta_purple_n",
+        "textures/blocks/glazed_terracotta_purple_s"
+      ]
+    },
+
+
+    "00000133": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_red",
+        "textures/blocks/glazed_terracotta_red_n",
+        "textures/blocks/glazed_terracotta_red_s"
+      ]
+    },
+
+    "00000134": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_silver",
+        "textures/blocks/glazed_terracotta_silver_n",
+        "textures/blocks/glazed_terracotta_silver_s"
+      ]
+    },
+
+    
+    "00000135": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_white",
+        "textures/blocks/glazed_terracotta_white_n",
+        "textures/blocks/glazed_terracotta_white_s"
+      ]
+    },
+
+    "00000136": {
+      "textures": [
+        "textures/blocks/glazed_terracotta_yellow",
+        "textures/blocks/glazed_terracotta_yellow_n",
+        "textures/blocks/glazed_terracotta_yellow_s"
+      ]
     }
     
     
