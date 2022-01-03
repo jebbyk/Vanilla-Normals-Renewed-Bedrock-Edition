@@ -893,7 +893,93 @@
         "textures/blocks/anvil_top_damaged_2_n",
         "textures/blocks/anvil_top_damaged_2_s"
       ]
+    },
+
+
+    "00000111": {
+      "textures": [
+        "textures/blocks/noteblock",
+        "textures/blocks/noteblock_n",
+        "textures/blocks/noteblock_s"
+      ]
+    },
+
+
+    "00000112": {
+      "textures": [
+        "textures/blocks/dispenser_front_vertical",
+        "textures/blocks/dispenser_front_vertical_n",
+        "textures/blocks/dispenser_front_vertical_s"
+      ]
+    },
+
+    "00000113": {
+      "textures": [
+        "textures/blocks/dispenser_front_horizontal",
+        "textures/blocks/dispenser_front_horizontal_n",
+        "textures/blocks/dispenser_front_horizontal_s"
+      ]
+    },
+
+    "00000114": {
+      "textures": [
+        "textures/blocks/dropper_front_horizontal",
+        "textures/blocks/dropper_front_horizontal_n",
+        "textures/blocks/dropper_front_horizontal_s"
+      ]
+    },
+
+    "00000115": {
+      "textures": [
+        "textures/blocks/dropper_front_vertical",
+        "textures/blocks/dropper_front_vertical_n",
+        "textures/blocks/dropper_front_vertical_s"
+      ]
+    },
+
+    "00000116": {
+      "textures": [
+        "textures/blocks/hopper_inside",
+        "textures/blocks/hopper_inside_n",
+        "textures/blocks/hopper_inside_s"
+      ]
+    },
+
+    "00000117": {
+      "textures": [
+        "textures/blocks/hopper_outside",
+        "textures/blocks/hopper_outside_n",
+        "textures/blocks/hopper_outside_s"
+      ]
+    },
+
+    "00000118": {
+      "textures": [
+        "textures/blocks/hopper_top",
+        "textures/blocks/hopper_top_n",
+        "textures/blocks/hopper_top_s"
+      ]
+    },
+
+    "00000119": {
+      "textures": [
+        "textures/blocks/prismarine_dark",
+        "textures/blocks/prismarine_dark_n",
+        "textures/blocks/prismarine_dark_s"
+      ]
+    },
+
+    
+    "00000120": {
+      "textures": [
+        "textures/blocks/prismarine_bricks",
+        "textures/blocks/prismarine_bricks_n",
+        "textures/blocks/prismarine_bricks_s"
+      ]
     }
+    
+    
+    
 
 
   }
