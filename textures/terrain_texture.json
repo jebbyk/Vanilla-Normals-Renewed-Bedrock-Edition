@@ -740,6 +740,71 @@
         "textures/blocks/melon_side_n",
         "textures/blocks/melon_side_s"
       ]
+    },
+
+    "00000092": {
+      "textures": [
+        "textures/blocks/cauldron_top",
+        "textures/blocks/cauldron_top_n",
+        "textures/blocks/cauldron_top_s"
+      ]
+    },
+
+    "00000093": {
+      "textures": [
+        "textures/blocks/cauldron_inner",
+        "textures/blocks/cauldron_inner_n",
+        "textures/blocks/cauldron_inner_s"
+      ]
+    },
+
+    "00000094": {
+      "textures": [
+        "textures/blocks/cauldron_side",
+        "textures/blocks/cauldron_side_n",
+        "textures/blocks/cauldron_side_s"
+      ]
+    },
+
+    "00000095": {
+      "textures": [
+        "textures/blocks/cauldron_bottom",
+        "textures/blocks/cauldron_bottom_n",
+        "textures/blocks/cauldron_bottom_s"
+      ]
+    },
+
+    "00000096": {
+      "textures": [
+        "textures/blocks/brewing_stand_base",
+        "textures/blocks/brewing_stand_base_n",
+        "textures/blocks/brewing_stand_base_s"
+      ]
+    },
+
+    "00000097": {
+      "textures": [
+        "textures/blocks/brewing_stand",
+        "textures/blocks/brewing_stand_n",
+        "textures/blocks/brewing_stand_s"
+      ]
+    },
+
+    "00000098": {
+      "textures": [
+        "textures/blocks/end_bricks",
+        "textures/blocks/end_bricks_n",
+        "textures/blocks/end_bricks_s"
+      ]
+    },
+
+    
+    "00000099": {
+      "textures": [
+        "textures/blocks/end_stone",
+        "textures/blocks/end_stone_n",
+        "textures/blocks/end_stone_s"
+      ]
     }
 
 
