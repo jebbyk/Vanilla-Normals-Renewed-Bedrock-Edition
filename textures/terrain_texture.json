@@ -805,6 +805,94 @@
         "textures/blocks/end_stone_n",
         "textures/blocks/end_stone_s"
       ]
+    },
+
+    "00000100": {
+      "textures": [
+        "textures/blocks/redstone_lamp_off",
+        "textures/blocks/redstone_lamp_off_n",
+        "textures/blocks/redstone_lamp_off_s"
+      ]
+    },
+
+    "00000101": {
+      "textures": [
+        "textures/blocks/redstone_lamp_on",
+        "textures/blocks/redstone_lamp_on_n",
+        "textures/blocks/redstone_lamp_on_s"
+      ]
+    },
+
+    "00000102": {
+      "textures": [
+        "textures/blocks/enchanting_table_bottom",
+        "textures/blocks/enchanting_table_bottom_n",
+        "textures/blocks/enchanting_table_bottom_s"
+      ]
+    },
+
+    "00000103": {
+      "textures": [
+        "textures/blocks/enchanting_table_side",
+        "textures/blocks/enchanting_table_side_n",
+        "textures/blocks/enchanting_table_side_s"
+      ]
+    },
+
+    "00000104": {
+      "textures": [
+        "textures/blocks/enchanting_table_top",
+        "textures/blocks/enchanting_table_top_n",
+        "textures/blocks/enchanting_table_top_s"
+      ]
+    },
+
+    "00000105": {
+      "textures": [
+        "textures/blocks/hay_block_top",
+        "textures/blocks/hay_block_top_n",
+        "textures/blocks/hay_block_top_s"
+      ]
+    },
+
+    "00000106": {
+      "textures": [
+        "textures/blocks/hay_block_side",
+        "textures/blocks/hay_block_side_n",
+        "textures/blocks/hay_block_side_s"
+      ]
+    },
+
+    "00000107": {
+      "textures": [
+        "textures/blocks/anvil_base",
+        "textures/blocks/anvil_base_n",
+        "textures/blocks/anvil_base_s"
+      ]
+    },
+
+    "00000108": {
+      "textures": [
+        "textures/blocks/anvil_top_damaged_0",
+        "textures/blocks/anvil_top_damaged_0_n",
+        "textures/blocks/anvil_top_damaged_0_s"
+      ]
+    },
+
+    "00000109": {
+      "textures": [
+        "textures/blocks/anvil_top_damaged_1",
+        "textures/blocks/anvil_top_damaged_1_n",
+        "textures/blocks/anvil_top_damaged_1_s"
+      ]
+    },
+
+    "00000110": {
+      "textures": [
+        "textures/blocks/anvil_top_damaged_2",
+        "textures/blocks/anvil_top_damaged_2_n",
+        "textures/blocks/anvil_top_damaged_2_s"
+      ]
     }
 
 
