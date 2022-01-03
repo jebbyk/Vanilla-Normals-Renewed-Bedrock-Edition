@@ -578,6 +578,85 @@
         "textures/blocks/cactus_bottom_n",
         "textures/blocks/cactus_bottom_s"
       ]
+    },
+
+    "00000072": {
+      "textures": [
+        "textures/blocks/jukebox_side",
+        "textures/blocks/jukebox_side_n",
+        "textures/blocks/jukebox_side_s"
+      ]
+    },
+
+    "00000073": {
+      "textures": [
+        "textures/blocks/jukebox_top",
+        "textures/blocks/jukebox_top_n",
+        "textures/blocks/jukebox_top_s"
+      ]
+    },
+
+    
+    "00000074": {
+      "textures": [
+        "textures/blocks/mycelium_top",
+        "textures/blocks/mycelium_top_n",
+        "textures/blocks/mycelium_top_s"
+      ]
+    },
+
+    "00000075": {
+      "textures": [
+        "textures/blocks/mycelium_side",
+        "textures/blocks/mycelium_side_n",
+        "textures/blocks/mycelium_side_s"
+      ]
+    },
+    "00000076": {
+      "textures": [
+        "textures/blocks/acacia_trapdoor",
+        "textures/blocks/acacia_trapdoor_n",
+        "textures/blocks/acacia_trapdoor_s"
+      ]
+    },
+    "00000077": {
+      "textures": [
+        "textures/blocks/birch_trapdoor",
+        "textures/blocks/birch_trapdoor_n",
+        "textures/blocks/birch_trapdoor_s"
+      ]
+    },
+    "00000078": {
+      "textures": [
+        "textures/blocks/dark_oak_trapdoor",
+        "textures/blocks/dark_oak_trapdoor_n",
+        "textures/blocks/dark_oak_trapdoor_s"
+      ]
+    },
+
+    "00000079": {
+      "textures": [
+        "textures/blocks/jungle_trapdoor",
+        "textures/blocks/jungle_trapdoor_n",
+        "textures/blocks/jungle_trapdoor_s"
+      ]
+    },
+
+    "00000080": {
+      "textures": [
+        "textures/blocks/spruce_trapdoor",
+        "textures/blocks/spruce_trapdoor_n",
+        "textures/blocks/spruce_trapdoor_s"
+      ]
+    },
+
+    
+    "00000081": {
+      "textures": [
+        "textures/blocks/iron_trapdoor",
+        "textures/blocks/iron_trapdoor_n",
+        "textures/blocks/iron_trapdoor_s"
+      ]
     }
 
 
