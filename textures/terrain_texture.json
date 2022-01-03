@@ -4,29 +4,17 @@
   "padding": 1,
   "num_mip_levels": 2,
   "texture_data": {
-    "a_water_normal0": {
-      "textures": "textures/special/water_normal0"
-    },
-    "a_water_fluid_normal0":{
-      "textures": "textures/special/water_fluid_normal0"
-    },
-    "a_water_drops0": {
-      "textures": "textures/special/water_drops0"
-    },
-    "a_blue_noise0": {
-      "textures": "textures/special/blue_noise1"
-    },
-    "a_blue_noise1": {
-      "textures": "textures/special/blue_noise1"
+    "00000000": {
+      "textures":[
+        "textures/special/water_normal0",
+        "textures/special/water_fluid_normal0",
+        "textures/special/water_drops0",
+        "textures/special/blue_noise1",
+        "textures/special/blue_noise1"
+      ] 
     },
 
-
-
-
-
-
-
-    "0": {
+    "00000001": {
       "textures": [
         "textures/blocks/gold_block",
         "textures/blocks/gold_block_n",
@@ -34,7 +22,7 @@
       ]
     },
 
-    "1": {
+    "00000002": {
       "textures": [
         "textures/blocks/iron_block",
         "textures/blocks/iron_block_n",
@@ -43,7 +31,7 @@
     },
 
     
-    "2": {
+    "00000003": {
       "textures": [
         "textures/blocks/diamond_block",
         "textures/blocks/diamond_block_n",
@@ -54,7 +42,7 @@
 
 
 
-    "3": {
+    "00000004": {
       "textures": [
         "textures/blocks/brick",
         "textures/blocks/brick_n",
@@ -62,7 +50,7 @@
       ]
     },
 
-    "4": {
+    "00000005": {
       "textures": [
         "textures/blocks/stonebrick",
         "textures/blocks/stonebrick_n",
@@ -71,7 +59,7 @@
     },
 
     
-    "5": { 
+    "00000006": { 
       "textures": [
         "textures/blocks/stonebrick_mossy",
         "textures/blocks/stonebrick_mossy_n",
@@ -79,14 +67,15 @@
       ]
     },
 
-    "6": {
+    "00000007": {
       "textures": [
         "textures/blocks/cobblestone",
         "textures/blocks/cobblestone_n",
         "textures/blocks/cobblestone_s"
       ]
     },
-    "7": {
+
+    "00000008": {
       "textures": [
         "textures/blocks/cobblestone_mossy",
         "textures/blocks/cobblestone_mossy_n",
@@ -97,42 +86,42 @@
 
 
 
-    "8": {
+    "00000009": {
       "textures": [
         "textures/blocks/gold_ore",
         "textures/blocks/gold_ore_n",
         "textures/blocks/gold_ore_s"
       ]
     },
-    "9": {
+    "00000010": {
       "textures": [
         "textures/blocks/iron_ore",
         "textures/blocks/iron_ore_n",
         "textures/blocks/iron_ore_s"
       ]
     },
-    "10": {
+    "00000011": {
       "textures": [
         "textures/blocks/diamond_ore",
         "textures/blocks/diamond_ore_n",
         "textures/blocks/diamond_ore_s"
       ]
     },
-    "11": {
+    "00000012": {
       "textures": [
         "textures/blocks/redstone_ore",
         "textures/blocks/redstone_ore_n",
         "textures/blocks/redstone_ore_s"
       ]
     },
-    "12": {
+    "00000013": {
       "textures": [
         "textures/blocks/emerald_ore",
         "textures/blocks/emerald_ore_n",
         "textures/blocks/emerald_ore_s"
       ]
     },
-    "13": {
+    "00000014": {
       "textures": [
         "textures/blocks/quartz_ore",
         "textures/blocks/quartz_ore_n",
@@ -145,28 +134,28 @@
 
 
 
-    "14": {
+    "00000015": {
       "textures": [
         "textures/blocks/cartography_table_side1",
         "textures/blocks/cartography_table_side1_n",
         "textures/blocks/cartography_table_side1_s"
       ]
     },
-    "15": {
+    "00000016": {
       "textures": [
         "textures/blocks/cartography_table_side2",
         "textures/blocks/cartography_table_side2_n",
         "textures/blocks/cartography_table_side2_s"
       ]
     },
-    "16": {
+    "00000017": {
       "textures": [
         "textures/blocks/cartography_table_side3",
         "textures/blocks/cartography_table_side3_n",
         "textures/blocks/cartography_table_side3_s"
       ]
     },
-    "17": {
+    "00000018": {
       "textures": [
         "textures/blocks/cartography_table_top",
         "textures/blocks/cartography_table_top_n",
@@ -178,25 +167,29 @@
 
 
 
-    "18": {
+    "00000019": {
       "textures": [
         "textures/blocks/barrel_top",
         "textures/blocks/barrel_top_n",
-        "textures/blocks/barrel_top_s",
+        "textures/blocks/barrel_top_s"
+      ]
+    },
 
+    "00000020": {
+      "textures": [
         "textures/blocks/barrel_top_open",
         "textures/blocks/barrel_top_open_n",
         "textures/blocks/barrel_top_open_s"
       ]
     },
-    "19": {
+    "00000021": {
       "textures": [
         "textures/blocks/barrel_bottom",
         "textures/blocks/barrel_bottom_n",
         "textures/blocks/barrel_bottom_s"
       ]
     },
-    "20": {
+    "00000022": {
       "textures": [
         "textures/blocks/barrel_side",
         "textures/blocks/barrel_side_n",
@@ -204,7 +197,7 @@
       ]
     },
 
-    "21": {
+    "00000023": {
       "textures": [
         "textures/blocks/planks_spruce",
         "textures/blocks/planks_spruce_n",
@@ -212,7 +205,7 @@
       ]
     },
 
-    "22": {
+    "00000024": {
       "textures":[
         "textures/blocks/planks_birch",
         "textures/blocks/planks_birch_n",
@@ -220,7 +213,7 @@
       ]
     },
 
-    "23": {
+    "00000025": {
       "textures": [
         "textures/blocks/planks_jungle",
         "textures/blocks/planks_jungle_n",
@@ -228,7 +221,7 @@
       ]
     },
 
-    "24": {
+    "00000026": {
       "textures": [
         "textures/blocks/planks_acacia",
         "textures/blocks/planks_acacia_n",
@@ -237,7 +230,7 @@
     },
 
 
-    "25": {
+    "00000027": {
       "textures": [
         "textures/blocks/obsidian",
         "textures/blocks/obsidian_n",
@@ -246,7 +239,7 @@
       ]
     },
 
-    "26": {
+    "00000028": {
       "textures": [
         "textures/blocks/redstone_block",
         "textures/blocks/redstone_block_n",
@@ -254,13 +247,126 @@
         ]
     },
 
-    "27": {
+    "00000029": {
       "textures": [
         "textures/blocks/emerald_block",
         "textures/blocks/emerald_block_n",
         "textures/blocks/emerald_block_s"
       ]
+    },
+
+    "00000030": {
+      "textures": [
+        "textures/blocks/stonebrick_cracked",
+        "textures/blocks/stonebrick_cracked_n",
+        "textures/blocks/stonebrick_cracked_s"
+      ]
+    },
+
+    "00000031": {
+      "textures": [
+        "textures/blocks/sandstone_top",
+        "textures/blocks/sandstone_top_n",
+        "textures/blocks/sandstone_top_s"
+      ]
+    },
+
+    "00000032": {
+      "textures": [
+        "textures/blocks/sandstone_bottom",
+        "textures/blocks/sandstone_bottom_n",
+        "textures/blocks/sandstone_bottom_s"
+      ]
+    },
+
+    "00000033": {
+      "textures": [
+        "textures/blocks/sandstone_normal",
+        "textures/blocks/sandstone_normal_n",
+        "textures/blocks/sandstone_normal_s"
+      ]
+    },
+
+    "00000034": {
+      "textures": [
+        "textures/blocks/sandstone_carved",
+        "textures/blocks/sandstone_carved_n",
+        "textures/blocks/sandstone_carved_s"
+      ]
+    },
+
+    "00000035": {
+      "textures": [
+        "textures/blocks/sandstone_smooth",
+        "textures/blocks/sandstone_smooth_n",
+        "textures/blocks/sandstone_smooth_s"
+      ]
+    },
+
+    "00000036": {
+      "textures": [
+        "textures/blocks/red_sandstone_top",
+        "textures/blocks/red_sandstone_top_n",
+        "textures/blocks/red_sandstone_top_s"
+      ]
+    },
+
+    "00000037": {
+      "textures": [
+        "textures/blocks/red_sandstone_bottom",
+        "textures/blocks/red_sandstone_bottom_n",
+        "textures/blocks/red_sandstone_bottom_s"
+      ]
+    },
+
+    "00000038": {
+      "textures": [
+        "textures/blocks/red_sandstone_normal",
+        "textures/blocks/red_sandstone_normal_n",
+        "textures/blocks/red_sandstone_normal_s"
+      ]
+    },
+
+    "00000039": {
+      "textures": [
+        "textures/blocks/red_sandstone_carved",
+        "textures/blocks/red_sandstone_carved_n",
+        "textures/blocks/red_sandstone_carved_s"
+      ]
+    },
+
+    "00000040": {
+      "textures": [
+        "textures/blocks/red_sandstone_smooth",
+        "textures/blocks/red_sandstone_smooth_n",
+        "textures/blocks/red_sandstone_smooth_s"
+      ]
+    },
+
+    "00000041": {
+      "textures": [
+        "textures/blocks/tnt_top",
+        "textures/blocks/tnt_top_n",
+        "textures/blocks/tnt_top_s"
+      ]
+    },
+
+    "00000042": {
+      "textures": [
+        "textures/blocks/tnt_bottom",
+        "textures/blocks/tnt_bottom_n",
+        "textures/blocks/tnt_bottom_s"
+      ]
+    },
+
+    "00000043": {
+      "textures": [
+        "textures/blocks/tnt_side",
+        "textures/blocks/tnt_side_n",
+        "textures/blocks/tnt_side_s"
+      ]
     }
+
 
   }
 }
