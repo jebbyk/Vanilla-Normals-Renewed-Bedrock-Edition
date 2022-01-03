@@ -650,6 +650,7 @@
       ]
     },
 
+
     
     "00000081": {
       "textures": [
@@ -657,8 +658,89 @@
         "textures/blocks/iron_trapdoor_n",
         "textures/blocks/iron_trapdoor_s"
       ]
-    }
+    },
 
+    "00000082": {
+      "textures": [
+        "textures/blocks/iron_bars",
+        "textures/blocks/iron_bars_n",
+        "textures/blocks/iron_bars_s"
+      ]
+    },
+
+    "00000083": {
+      "textures": [
+        "textures/blocks/farmland_wet",
+        "textures/blocks/farmland_wet_n",
+        "textures/blocks/farmland_wet_s"
+      ]
+    },
+
+    "00000084": {
+      "textures": [
+        "textures/blocks/farmland_dry",
+        "textures/blocks/farmland_dry_n",
+        "textures/blocks/farmland_dry_s"
+      ]
+    },
+
+    "00000085": {
+      "textures": [
+        "textures/blocks/dirt",
+        "textures/blocks/dirt_n",
+        "textures/blocks/dirt_s"
+      ]
+    },
+
+    
+    "00000086": {
+      "textures": [
+        "textures/blocks/grass_path_top",
+        "textures/blocks/grass_path_top_n",
+        "textures/blocks/grass_path_top_s"
+      ]
+    },
+
+    "00000087": {
+      "textures": [
+        "textures/blocks/grass_path_side",
+        "textures/blocks/grass_path_side_n",
+        "textures/blocks/grass_path_side_s"
+      ]
+    },
+
+    "00000088": {
+      "textures": [
+        "textures/blocks/pumpkin_top",
+        "textures/blocks/pumpkin_top_n",
+        "textures/blocks/pumpkin_top_s"
+      ]
+    },
+
+    "00000089": {
+      "textures": [
+        "textures/blocks/pumpkin_side",
+        "textures/blocks/pumpkin_side_n",
+        "textures/blocks/pumpkin_side_s"
+      ]
+    },
+
+    
+    "00000090": {
+      "textures": [
+        "textures/blocks/melon_top",
+        "textures/blocks/melon_top_n",
+        "textures/blocks/melon_top_s"
+      ]
+    },
+
+    "00000091": {
+      "textures": [
+        "textures/blocks/melon_side",
+        "textures/blocks/melon_side_n",
+        "textures/blocks/melon_side_s"
+      ]
+    }
 
 
   }
