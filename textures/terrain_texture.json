@@ -1107,7 +1107,130 @@
         "textures/blocks/glazed_terracotta_yellow_n",
         "textures/blocks/glazed_terracotta_yellow_s"
       ]
+    },
+
+    "00000137": {
+      "textures": [
+        "textures/blocks/stone_diorite_smooth",
+        "textures/blocks/stone_diorite_smooth_n",
+        "textures/blocks/stone_diorite_smooth_s"
+      ]
+    },
+
+    "00000138": {
+      "textures": [
+        "textures/blocks/stone_andesite_smooth",
+        "textures/blocks/stone_andesite_smooth_n",
+        "textures/blocks/stone_andesite_smooth_s"
+      ]
+    },
+
+    "00000139": {
+      "textures": [
+        "textures/blocks/stone_granite_smooth",
+        "textures/blocks/stone_granite_smooth_n",
+        "textures/blocks/stone_granite_smooth_s"
+      ]
+    },
+
+    "00000140": {
+      "textures": [
+        "textures/blocks/fletcher_table_top",
+        "textures/blocks/fletcher_table_top_n",
+        "textures/blocks/fletcher_table_top_s"
+      ]
+    },
+
+    "00000141": {
+      "textures": [
+        "textures/blocks/fletcher_table_side1",
+        "textures/blocks/fletcher_table_side1_n",
+        "textures/blocks/fletcher_table_side1_s"
+      ]
+    },
+
+    "00000142": {
+      "textures": [
+        "textures/blocks/fletcher_table_side2",
+        "textures/blocks/fletcher_table_side2_n",
+        "textures/blocks/fletcher_table_side2_s"
+      ]
+    },
+
+    "00000143": {
+      "textures": [
+        "textures/blocks/smithing_table_bottom",
+        "textures/blocks/smithing_table_bottom_n",
+        "textures/blocks/smithing_table_bottom_s"
+      ]
+    },
+
+    "00000144": {
+      "textures": [
+        "textures/blocks/smithing_table_front",
+        "textures/blocks/smithing_table_front_n",
+        "textures/blocks/smithing_table_front_s"
+      ]
+    },
+
+    "00000145": {
+      "textures": [
+        "textures/blocks/smithing_table_side",
+        "textures/blocks/smithing_table_side_n",
+        "textures/blocks/smithing_table_side_s"
+      ]
+    },
+
+    "00000146": {
+      "textures": [
+        "textures/blocks/smithing_table_top",
+        "textures/blocks/smithing_table_top_n",
+        "textures/blocks/smithing_table_top_s"
+      ]
+    },
+
+    "00000147": {
+      "textures": [
+        "textures/blocks/smoker_top",
+        "textures/blocks/smoker_top_n",
+        "textures/blocks/smoker_top_s"
+      ]
+    },
+
+
+    "00000148": {
+      "textures": [
+        "textures/blocks/smoker_side",
+        "textures/blocks/smoker_side_n",
+        "textures/blocks/smoker_side_s"
+      ]
+    },
+
+    "00000149": {
+      "textures": [
+        "textures/blocks/smoker_front_off",
+        "textures/blocks/smoker_front_off_n",
+        "textures/blocks/smoker_front_off_s"
+      ]
+    },
+
+    "00000150": {
+      "textures": [
+        "textures/blocks/smoker_bottom",
+        "textures/blocks/smoker_bottom_n",
+        "textures/blocks/smoker_bottom_s"
+      ]
+    },
+
+    "00000151": {
+      "textures": [
+        "textures/blocks/smoker_front_on",
+        "textures/blocks/smoker_front_on_n",
+        "textures/blocks/smoker_front_on_s"
+      ]
     }
+    
+    
     
     
     
