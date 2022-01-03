@@ -184,6 +184,40 @@
         "textures/blocks/quartz_ore_n",
         "textures/blocks/quartz_ore_s"
       ]
+    },
+
+
+
+
+
+
+    "cartography_table_side1": {
+      "textures": [
+        "textures/blocks/cartography_table_side1",
+        "textures/blocks/cartography_table_side1_n",
+        "textures/blocks/cartography_table_side1_s"
+      ]
+    },
+    "cartography_table_side2": {
+      "textures": [
+        "textures/blocks/cartography_table_side2",
+        "textures/blocks/cartography_table_side2_n",
+        "textures/blocks/cartography_table_side2_s"
+      ]
+    },
+    "cartography_table_side3": {
+      "textures": [
+        "textures/blocks/cartography_table_side3",
+        "textures/blocks/cartography_table_side3_n",
+        "textures/blocks/cartography_table_side3_s"
+      ]
+    },
+    "cartography_table_top": {
+      "textures": [
+        "textures/blocks/cartography_table_top",
+        "textures/blocks/cartography_table_top_n",
+        "textures/blocks/cartography_table_top_s"
+      ]
     }
 
   }
