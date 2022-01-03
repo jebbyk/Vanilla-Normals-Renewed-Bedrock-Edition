@@ -218,6 +218,36 @@
         "textures/blocks/cartography_table_top_n",
         "textures/blocks/cartography_table_top_s"
       ]
+    },
+
+
+
+
+
+    "barrel_top": {
+      "textures": [
+        "textures/blocks/barrel_top",
+        "textures/blocks/barrel_top_n",
+        "textures/blocks/barrel_top_s",
+
+        "textures/blocks/barrel_top_open",
+        "textures/blocks/barrel_top_open_n",
+        "textures/blocks/barrel_top_open_s"
+      ]
+    },
+    "barrel_bottom": {
+      "textures": [
+        "textures/blocks/barrel_bottom",
+        "textures/blocks/barrel_bottom_n",
+        "textures/blocks/barrel_bottom_s"
+      ]
+    },
+    "barrel_side": {
+      "textures": [
+        "textures/blocks/barrel_side",
+        "textures/blocks/barrel_side_n",
+        "textures/blocks/barrel_side_s"
+      ]
     }
 
   }
