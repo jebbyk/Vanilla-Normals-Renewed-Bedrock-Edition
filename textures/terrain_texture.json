@@ -1310,9 +1310,276 @@
         "textures/blocks/compost_ready_n",
         "textures/blocks/compost_ready_s"
       ]
-    }
-    
-    
+    },
 
+
+    "00000162": {
+      "textures": [
+        "textures/blocks/honeycomb",
+        "textures/blocks/honeycomb_n",
+        "textures/blocks/honeycomb_s"
+      ]
+    },
+
+    "00000163": {
+      "textures": [
+        "textures/blocks/amethyst_block",
+        "textures/blocks/amethyst_block_n",
+        "textures/blocks/amethyst_block_s"
+      ]
+    },
+
+    "00000164": {
+      "textures": [
+        "textures/blocks/budding_amethyst",
+        "textures/blocks/budding_amethyst_n",
+        "textures/blocks/budding_amethyst_s"
+      ]
+    },
+    "00000165": {
+      "textures": [
+        "textures/blocks/chiseled_deepslate",
+        "textures/blocks/chiseled_deepslate_n",
+        "textures/blocks/chiseled_deepslate_s"
+      ]
+    },
+
+    "00000166": {
+      "textures": [
+        "textures/blocks/cobbled_deepslate",
+        "textures/blocks/cobbled_deepslate_n",
+        "textures/blocks/cobbled_deepslate_s"
+      ]
+    },
+
+    "00000167": {
+      "textures": [
+        "textures/blocks/dripstone_block",
+        "textures/blocks/dripstone_block_n",
+        "textures/blocks/dripstone_block_s"
+      ]
+    },
+
+    "00000168": {
+      "textures": [
+        "textures/blocks/deepslate",
+        "textures/blocks/deepslate_n",
+        "textures/blocks/deepslate_s"
+      ]
+    },
+
+    "00000169": {
+      "textures": [
+        "textures/blocks/deepslate_bricks",
+        "textures/blocks/deepslate_bricks_n",
+        "textures/blocks/deepslate_bricks_s"
+      ]
+    },
+
+    "00000170": {
+      "textures": [
+        "textures/blocks/deepslate_diamond_ore",
+        "textures/blocks/deepslate_diamond_ore_n",
+        "textures/blocks/deepslate_diamond_ore_s"
+      ]
+    },
+
+    "00000171": {
+      "textures": [
+        "textures/blocks/deepslate_gold_ore",
+        "textures/blocks/deepslate_gold_ore_n",
+        "textures/blocks/deepslate_gold_ore_s"
+      ]
+    },
+
+    "00000172": {
+      "textures": [
+        "textures/blocks/deepslate_iron_ore",
+        "textures/blocks/deepslate_iron_ore_n",
+        "textures/blocks/deepslate_iron_ore_s"
+      ]
+    },
+
+    "00000173": {
+      "textures": [
+        "textures/blocks/deepslate_lapis_ore",
+        "textures/blocks/deepslate_lapis_ore_n",
+        "textures/blocks/deepslate_lapis_ore_s"
+      ]
+    },
+
+    "00000174": {
+      "textures": [
+        "textures/blocks/deepslate_redstone_ore",
+        "textures/blocks/deepslate_redstone_ore_n",
+        "textures/blocks/deepslate_redstone_ore_s"
+      ]
+    },
+
+    "00000175": {
+      "textures": [
+        "textures/blocks/deepslate_tiles",
+        "textures/blocks/deepslate_tiles_n",
+        "textures/blocks/deepslate_tiles_s"
+      ]
+    },
+
+    "00000176": {
+      "textures": [
+        "textures/blocks/deepslate_top",
+        "textures/blocks/deepslate_top_n",
+        "textures/blocks/deepslate_top_s"
+      ]
+    },
+
+    
+    "00000177": {
+      "textures": [
+        "textures/blocks/polished_deepslate",
+        "textures/blocks/polished_deepslate_n",
+        "textures/blocks/polished_deepslate_s"
+      ]
+    },
+
+    "00000178": {
+      "textures": [
+        "textures/blocks/deepslate_emerald_ore",
+        "textures/blocks/deepslate_emerald_ore_n",
+        "textures/blocks/deepslate_emerald_ore_s"
+      ]
+    },
+
+    
+    "00000179": {
+      "textures": [
+        "textures/blocks/deepslate_copper_ore",
+        "textures/blocks/deepslate_copper_ore_n",
+        "textures/blocks/deepslate_copper_ore_s"
+      ]
+    },
+
+    "00000180": {
+      "textures": [
+        "textures/blocks/cracked_deepslate_tiles",
+        "textures/blocks/cracked_deepslate_tiles_n",
+        "textures/blocks/cracked_deepslate_tiles_s"
+      ]
+    },
+
+    "00000181": {
+      "textures": [
+        "textures/blocks/cracked_deepslate_bricks",
+        "textures/blocks/cracked_deepslate_bricks_n",
+        "textures/blocks/cracked_deepslate_bricks_s"
+      ]
+    },
+
+    "00000182": {
+      "textures": [
+        "textures/blocks/deepslate_coal_ore",
+        "textures/blocks/deepslate_coal_ore_n",
+        "textures/blocks/deepslate_coal_ore_s"
+      ]
+    },
+
+    "00000183": {
+      "textures": [
+        "textures/blocks/copper_ore",
+        "textures/blocks/copper_ore_n",
+        "textures/blocks/copper_ore_s"
+      ]
+    },
+
+    "00000184": {
+      "textures": [
+        "textures/blocks/copper_block",
+        "textures/blocks/copper_block_n",
+        "textures/blocks/copper_block_s"
+      ]
+    },
+
+    "00000185": {
+      "textures": [
+        "textures/blocks/exposed_copper",
+        "textures/blocks/exposed_copper_n",
+        "textures/blocks/exposed_copper_s"
+      ]
+    },
+
+    "00000186": {
+      "textures": [
+        "textures/blocks/weathered_copper",
+        "textures/blocks/weathered_copper_n",
+        "textures/blocks/weathered_copper_s"
+      ]
+    },
+
+    "00000187": {
+      "textures": [
+        "textures/blocks/oxidized_copper",
+        "textures/blocks/oxidized_copper_n",
+        "textures/blocks/oxidized_copper_s"
+      ]
+    },
+
+    "00000188": {
+      "textures": [
+        "textures/blocks/cut_copper",
+        "textures/blocks/cut_copper_n",
+        "textures/blocks/cut_copper_s"
+      ]
+    },
+
+    "00000189": {
+      "textures": [
+        "textures/blocks/exposed_cut_copper",
+        "textures/blocks/exposed_cut_copper_n",
+        "textures/blocks/exposed_cut_copper_s"
+      ]
+    },
+
+    "00000190": {
+      "textures": [
+        "textures/blocks/weathered_cut_copper",
+        "textures/blocks/weathered_cut_copper_n",
+        "textures/blocks/weathered_cut_copper_s"
+      ]
+    },
+
+    "00000191": {
+      "textures": [
+        "textures/blocks/oxidized_cut_copper",
+        "textures/blocks/oxidized_cut_copper_n",
+        "textures/blocks/oxidized_cut_copper_s"
+      ]
+    },
+
+    "00000192": {
+      "textures": [
+        "textures/blocks/raw_copper_block",
+        "textures/blocks/raw_copper_block_n",
+        "textures/blocks/raw_copper_block_s"
+      ]
+    },
+
+    
+    "00000193": {
+      "textures": [
+        "textures/blocks/raw_iron_block",
+        "textures/blocks/raw_iron_block_n",
+        "textures/blocks/raw_iron_block_s"
+      ]
+    },
+
+    "00000194": {
+      "textures": [
+        "textures/blocks/raw_gold_block",
+        "textures/blocks/raw_gold_block_n",
+        "textures/blocks/raw_gold_block_s"
+      ]
+    }
+
+
+    
   }
 }
