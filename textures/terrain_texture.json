@@ -1577,6 +1577,32 @@
         "textures/blocks/raw_gold_block_n",
         "textures/blocks/raw_gold_block_s"
       ]
+    },
+
+
+    
+    "00000195": {
+      "textures": [
+        "textures/blocks/endframe_top",
+        "textures/blocks/endframe_top_n",
+        "textures/blocks/endframe_top_s"
+      ]
+    },
+
+    "00000196": {
+      "textures": [
+        "textures/blocks/endframe_side",
+        "textures/blocks/endframe_side_n",
+        "textures/blocks/endframe_side_s"
+      ]
+    },
+
+    "00000197": {
+      "textures": [
+        "textures/blocks/endframe_eye",
+        "textures/blocks/endframe_eye_n",
+        "textures/blocks/endframe_eye_s"
+      ]
     }
 
 
