@@ -4,16 +4,7 @@
   "padding": 1,
   "num_mip_levels": 2,
   "texture_data": {
-    "00000000": {
-      "textures":[
-        "textures/special/water_normal0",
-        "textures/special/water_fluid_normal0",
-        "textures/special/water_drops0",
-        "textures/special/blue_noise1",
-        "textures/special/blue_noise1"
-      ] 
-    },
-
+    
     "00000001": {
       "textures": [
         "textures/blocks/gold_block",
