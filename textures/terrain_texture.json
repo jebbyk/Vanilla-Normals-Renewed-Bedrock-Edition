@@ -1603,6 +1603,87 @@
         "textures/blocks/endframe_eye_n",
         "textures/blocks/endframe_eye_s"
       ]
+    },
+
+    "00000198": {
+      "textures": [
+        "textures/blocks/netherite_block",
+        "textures/blocks/netherite_block_n",
+        "textures/blocks/netherite_block_s"
+      ]
+    },
+
+    "00000199": {
+      "textures": [
+        "textures/blocks/ancient_debris_top",
+        "textures/blocks/ancient_debris_top_n",
+        "textures/blocks/ancient_debris_top_s"
+      ]
+    },
+
+    "00000200": {
+      "textures": [
+        "textures/blocks/ancient_debris_side",
+        "textures/blocks/ancient_debris_side_n",
+        "textures/blocks/ancient_debris_side_s"
+      ]
+    },
+
+    "00000201": {
+      "textures": [
+        "textures/blocks/blackstone",
+        "textures/blocks/blackstone_n",
+        "textures/blocks/blackstone_s"
+      ]
+    },
+
+    "00000202": {
+      "textures": [
+        "textures/blocks/nether_gold_ore",
+        "textures/blocks/nether_gold_ore_n",
+        "textures/blocks/nether_gold_ore_s"
+      ]
+    },
+
+    "00000203": {
+      "textures": [
+        "textures/blocks/crying_obsidian",
+        "textures/blocks/crying_obsidian_n",
+        "textures/blocks/crying_obsidian_s"
+      ]
+    },
+
+    "00000204": {
+      "textures": [
+        "textures/blocks/blackstone_top",
+        "textures/blocks/blackstone_top_n",
+        "textures/blocks/blackstone_top_s"
+      ]
+    },
+
+    
+    "00000205": {
+      "textures": [
+        "textures/blocks/polished_blackstone_bricks",
+        "textures/blocks/polished_blackstone_bricks_n",
+        "textures/blocks/polished_blackstone_bricks_s"
+      ]
+    },
+
+    "00000206": {
+      "textures": [
+        "textures/blocks/cracked_polished_blackstone_bricks",
+        "textures/blocks/cracked_polished_blackstone_bricks_n",
+        "textures/blocks/cracked_polished_blackstone_bricks_s"
+      ]
+    },
+
+    "00000207": {
+      "textures": [
+        "textures/blocks/gilded_blackstone",
+        "textures/blocks/gilded_blackstone_n",
+        "textures/blocks/gilded_blackstone_s"
+      ]
     }
 
 
