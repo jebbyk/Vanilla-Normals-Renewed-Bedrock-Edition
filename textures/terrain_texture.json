@@ -1684,7 +1684,65 @@
         "textures/blocks/gilded_blackstone_n",
         "textures/blocks/gilded_blackstone_s"
       ]
+    },
+
+    "00000208": {
+      "textures": [
+        "textures/blocks/polished_blackstone",
+        "textures/blocks/polished_blackstone_n",
+        "textures/blocks/polished_blackstone_s"
+      ]
+    },
+
+    "00000209": {
+      "textures": [
+        "textures/blocks/door_spruce_lower",
+        "textures/blocks/door_spruce_lower_n",
+        "textures/blocks/door_spruce_lower_s"
+      ]
+    },
+
+    "00000210": {
+      "textures": [
+        "textures/blocks/door_spruce_upper",
+        "textures/blocks/door_spruce_upper_n",
+        "textures/blocks/door_spruce_upper_s"
+      ]
+    },
+
+    "00000211": {
+      "textures": [
+        "textures/blocks/door_dark_oak_lower",
+        "textures/blocks/door_dark_oak_lower_n",
+        "textures/blocks/door_dark_oak_lower_s"
+      ]
+    },
+
+    "00000212": {
+      "textures": [
+        "textures/blocks/door_dark_oak_upper",
+        "textures/blocks/door_dark_oak_upper_n",
+        "textures/blocks/door_dark_oak_upper_s"
+      ]
+    },
+
+    "00000213": {
+      "textures": [
+        "textures/blocks/door_iron_lower",
+        "textures/blocks/door_iron_lower_n",
+        "textures/blocks/door_iron_lower_s"
+      ]
+    },
+
+    
+    "00000214": {
+      "textures": [
+        "textures/blocks/door_iron_upper",
+        "textures/blocks/door_iron_upper_n",
+        "textures/blocks/door_iron_upper_s"
+      ]
     }
+
 
 
     
