@@ -295,7 +295,9 @@
       "textures": [
         "textures/blocks/red_sandstone_top",
         "textures/blocks/red_sandstone_top_n",
-        "textures/blocks/red_sandstone_top_s"
+        "textures/blocks/red_sandstone_top_s",
+        "fake_0000",
+        "fake_0001"
       ]
     },
 
@@ -306,6 +308,8 @@
         "textures/blocks/red_sandstone_bottom_s"
       ]
     },
+
+
 
     "00000038": {
       "textures": [
@@ -439,7 +443,9 @@
       "textures": [
         "textures/blocks/purpur_pillar",
         "textures/blocks/purpur_pillar_n",
-        "textures/blocks/purpur_pillar_s"
+        "textures/blocks/purpur_pillar_s",
+        "fake_0002",
+        "fake_0003"
       ]
     },
 
@@ -583,7 +589,9 @@
       "textures": [
         "textures/blocks/jukebox_top",
         "textures/blocks/jukebox_top_n",
-        "textures/blocks/jukebox_top_s"
+        "textures/blocks/jukebox_top_s",
+        "fake_0004",
+        "fake_0005"
       ]
     },
 
@@ -729,7 +737,9 @@
       "textures": [
         "textures/blocks/melon_side",
         "textures/blocks/melon_side_n",
-        "textures/blocks/melon_side_s"
+        "textures/blocks/melon_side_s",
+        "fake_0006",
+        "fake_0007"
       ]
     },
 
@@ -874,9 +884,12 @@
       "textures": [
         "textures/blocks/anvil_top_damaged_1",
         "textures/blocks/anvil_top_damaged_1_n",
-        "textures/blocks/anvil_top_damaged_1_s"
+        "textures/blocks/anvil_top_damaged_1_s",
+        "fake_0008",
+        "fake_0009"
       ]
     },
+
 
     "00000110": {
       "textures": [
@@ -1021,10 +1034,11 @@
       "textures": [
         "textures/blocks/glazed_terracotta_light_blue",
         "textures/blocks/glazed_terracotta_light_blue_n",
-        "textures/blocks/glazed_terracotta_light_blue_s"
+        "textures/blocks/glazed_terracotta_light_blue_s",
+        "fake_0010",
+        "fake_0011"
       ]
     },
-
     
     "00000128": {
       "textures": [
@@ -1168,9 +1182,12 @@
       "textures": [
         "textures/blocks/smithing_table_side",
         "textures/blocks/smithing_table_side_n",
-        "textures/blocks/smithing_table_side_s"
+        "textures/blocks/smithing_table_side_s",
+        "fake_0012",
+        "fake_0013"
       ]
     },
+
 
     "00000146": {
       "textures": [
@@ -1320,11 +1337,14 @@
       ]
     },
 
+
     "00000164": {
       "textures": [
         "textures/blocks/budding_amethyst",
         "textures/blocks/budding_amethyst_n",
-        "textures/blocks/budding_amethyst_s"
+        "textures/blocks/budding_amethyst_s",
+        "fake_0014",
+        "fake_0015"
       ]
     },
     "00000165": {
@@ -1465,11 +1485,15 @@
       ]
     },
 
+
+
     "00000182": {
       "textures": [
         "textures/blocks/deepslate/deepslate_coal_ore",
         "textures/blocks/deepslate/deepslate_coal_ore_n",
-        "textures/blocks/deepslate/deepslate_coal_ore_s"
+        "textures/blocks/deepslate/deepslate_coal_ore_s",
+        "fake_0016",
+        "fake_0017"
       ]
     },
 
@@ -1612,11 +1636,14 @@
       ]
     },
 
+
     "00000200": {
       "textures": [
         "textures/blocks/ancient_debris_side",
         "textures/blocks/ancient_debris_side_n",
-        "textures/blocks/ancient_debris_side_s"
+        "textures/blocks/ancient_debris_side_s",
+        "fake_0018",
+        "fake_0019"
       ]
     },
 
