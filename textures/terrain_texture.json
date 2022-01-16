@@ -1342,16 +1342,15 @@
       "textures": [
         "textures/blocks/budding_amethyst",
         "textures/blocks/budding_amethyst_n",
-        "textures/blocks/budding_amethyst_s",
-        "fake_0014",
-        "fake_0015"
+        "textures/blocks/budding_amethyst_s"
       ]
     },
     "00000165": {
       "textures": [
         "textures/blocks/deepslate/chiseled_deepslate",
         "textures/blocks/deepslate/chiseled_deepslate_n",
-        "textures/blocks/deepslate/chiseled_deepslate_s"
+        "textures/blocks/deepslate/chiseled_deepslate_s",
+        "fake_0014"
       ]
     },
 
@@ -1491,9 +1490,7 @@
       "textures": [
         "textures/blocks/deepslate/deepslate_coal_ore",
         "textures/blocks/deepslate/deepslate_coal_ore_n",
-        "textures/blocks/deepslate/deepslate_coal_ore_s",
-        "fake_0016",
-        "fake_0017"
+        "textures/blocks/deepslate/deepslate_coal_ore_s"
       ]
     },
 
@@ -1501,7 +1498,9 @@
       "textures": [
         "textures/blocks/copper_ore",
         "textures/blocks/copper_ore_n",
-        "textures/blocks/copper_ore_s"
+        "textures/blocks/copper_ore_s",
+        "fake_0015",
+        "fake_0016"
       ]
     },
 
@@ -1641,9 +1640,7 @@
       "textures": [
         "textures/blocks/ancient_debris_side",
         "textures/blocks/ancient_debris_side_n",
-        "textures/blocks/ancient_debris_side_s",
-        "fake_0018",
-        "fake_0019"
+        "textures/blocks/ancient_debris_side_s"
       ]
     },
 
@@ -1651,7 +1648,9 @@
       "textures": [
         "textures/blocks/blackstone",
         "textures/blocks/blackstone_n",
-        "textures/blocks/blackstone_s"
+        "textures/blocks/blackstone_s",
+        "fake_0017",
+        "fake_0018"
       ]
     },
 
