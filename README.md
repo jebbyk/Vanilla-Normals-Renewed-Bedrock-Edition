@@ -8,7 +8,7 @@ A shaders compatible minecraft texture pack, based on vanilla but with normals a
 I didn't want any of those fancy high-resolution texture packs in order to enjoy normal mapping and specular highlights.
 So I decided to make my own, but based on vanilla textures.
 
-This texture pack is free for everyone to use! However if you wish to support me, you can join my Patreon : https://www.patreon.com/Poudingue
+This texture pack is free for everyone to use! However if you wish to support original crator, you can join his Patreon : https://www.patreon.com/Poudingue
 
 ## Copyright
 
