@@ -1,7 +1,7 @@
 # Vanilla-Normals-Renewed
 A shaders compatible minecraft texture pack, based on vanilla but with normals and proper glossiness information.
 
-**⚠️ This version is made for Minecraft bedrock edition 1.17 and above ⚠️**
+**⚠️ This version is made for Minecraft bedrock edition 1.18 and above ⚠️**
 
 ## Description
 
