@@ -64,5 +64,20 @@
     "atlas_tile": "soul_campfire_log_lit",
     "frames": [ 0, 1, 2, 3 ],
     "ticks_per_frame": 8
+  },
+  {
+    "flipbook_texture": "textures/blocks/blast_furnace_front_on",
+    "atlas_tile": "blast_furnace_front_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/blast_furnace_front_on_n",
+    "atlas_tile": "blast_furnace_front_on_n",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/blast_furnace_front_on_s",
+    "atlas_tile": "blast_furnace_front_on_s",
+    "ticks_per_frame": 10
   }
 ]
